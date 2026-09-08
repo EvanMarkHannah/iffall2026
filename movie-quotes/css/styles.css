@@ -1,0 +1,156 @@
+body {
+	background-color: #1F1F1F;
+}
+
+h1 {
+font-family: "Courier New", bold;
+font-size: 100px;
+text-align: center;
+color:chartreuse;
+line-height: .5;
+padding-top: 50px;
+}
+
+h2 {
+font-family: "calibri";
+font-size: 24px;
+text-align: center;
+color: #5e5050;
+line-height: .5;
+}
+
+.nametag1 {
+font-family: "courier new";
+font-size: 20px;
+text-align: left;
+color: #66b06b;
+line-height: .5;
+padding-left: 50px;
+}
+
+.quote1 {
+    font-family: "calibri";
+border-radius: 10px 20px 20px 0; 
+padding: 8px;
+background-color: #76a985;
+color: #1F1F1F;
+max-width:fit-content;
+margin-left:65px;
+}
+
+
+.nametag2 {
+font-family: "courier new";
+font-size: 20px;
+text-align: right;
+color: #c66c88;
+line-height: .5;
+padding-right: 50px;
+}
+
+.quote2 {
+text-align: right;
+font-family: "calibri";
+border-radius: 20px 0px 10px 20px; 
+padding: 8px;
+background-color: #ba92a2;
+color: #1F1F1F;
+max-width:fit-content;
+margin-left: auto;
+margin-right:65px;
+}
+
+.nametag3 {
+font-family: "courier new";
+font-size: 20px;
+text-align: right;
+color: #919494;
+line-height: .5;
+padding-right: 50px;
+}
+
+.quote3 {
+text-align: right;
+font-family: "calibri";
+border-radius: 20px 0px 10px 20px; 
+padding: 8px;
+background-color: #686667;
+color: #1F1F1F;
+max-width:fit-content;
+margin-left: auto;
+margin-right:65px;
+}
+
+.nametag4 {
+font-family: "courier new";
+font-size: 20px;
+text-align: right;
+color: #de8622;
+line-height: .5;
+padding-right: 50px;
+}
+
+.quote4 {
+text-align: right;
+font-family: "calibri";
+border-radius: 20px 0px 10px 20px; 
+padding: 8px;
+background-color: #c17c59;
+color: #1F1F1F;
+max-width:fit-content;
+margin-left: auto;
+margin-right:65px;
+}
+
+.nametag5 {
+font-family: "courier new";
+font-size: 20px;
+text-align: right;
+color: #6a40e9;
+line-height: .5;
+padding-right: 50px;
+}
+
+.quote5 {
+text-align: right;
+font-family: "calibri";
+border-radius: 20px 0px 10px 20px; 
+padding: 8px;
+background-color: #b587de;
+color: #1F1F1F;
+max-width:fit-content;
+margin-left: auto;
+margin-right:65px;
+}
+
+.nametag6 {
+font-family: "courier new";
+font-size: 20px;
+text-align: right;
+color: #3bb4c7;
+line-height: .5;
+padding-right: 50px;
+}
+
+.quote6 {
+text-align: right;
+font-family: "calibri";
+border-radius: 20px 0px 10px 20px; 
+padding: 8px;
+background-color: #68a3a9;
+color: #1F1F1F;
+max-width:fit-content;
+margin-left: auto;
+margin-right:65px;
+}
+
+.action {
+font-family: "courier new";
+font-style: italic;
+font-size: 15px;
+text-align: center;
+color: #526e69;
+line-height: 1;
+margin-top:50px;
+
+}
