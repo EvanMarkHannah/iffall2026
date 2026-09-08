@@ -1,0 +1,45 @@
+body {
+
+    background-color: #882a0d;
+}
+
+img {
+    border:dashed, 10PX, #4e2012; }
+
+    p {
+text-align: center;
+    color: #f8ce8a;
+font-family: "Rye", serif;
+line-height: .8;
+font-size: 25px;
+    }
+
+
+    .rye-regular {
+  font-family: "Rye", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+h1 {
+    font-family: "Rye", serif;
+    font-size: 100px;
+    text-align: center;
+    color: #e68536;
+line-height: .5;}
+
+h2{
+font-family: "Rye", serif;
+    font-size: 30px;
+    text-align: center;
+    color: #c57c4f; 
+line-height: .5;
+}
+
+footer {
+    font-family: "Rye", serif;
+    font-size: 10px;
+    text-align: center;
+    color: #c57c4f;
+}
