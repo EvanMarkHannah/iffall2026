@@ -1,0 +1,105 @@
+            html {
+                font-size: 30px;
+            }
+
+            body {
+                font-family: 'Ubuntu', sans-serif;
+                background-color: rgb(196, 182, 160);
+            }
+
+            section {
+                margin-bottom: 100px;
+            }
+
+            h1 {
+                font-size: 1.75rem;
+                margin-bottom: .4em;
+            }
+
+            h2 {
+                font-size: 1.2rem;
+                margin-bottom: .4em;
+                color: #365c23;
+            }
+
+            h3 {
+                font-size: .6rem;
+                margin-bottom: .2em;
+                color: #825a32;
+                font-weight: 400;
+            }
+
+            p {
+                margin-top: 0;
+                color:#2b0404;
+                
+            }
+
+            .styledFont {
+                font-family: 'Ubuntu', sans-serif;
+            }
+
+
+            section.FontWeight p.Light {
+                font-weight: 300;
+            }
+
+            section.FontWeight p.Normal {
+                font-weight: normal;
+            }
+
+            section.FontWeight p.Bold {
+                font-weight: bold;
+            }
+
+            section.FontStyle p.Normal {
+                font-style: normal;
+            }
+
+            section.FontStyle p.Italic {
+                font-style: italic;
+            }
+
+            section.LetterSpacing p.Normal {
+                letter-spacing: normal;
+            }
+
+            section.LetterSpacing p.Wide {
+                letter-spacing: 14em;
+            }
+
+            section.LetterSpacing p.Narrow {
+                letter-spacing: -0.15em;
+            }
+
+            section.TextDecoration p.None {
+                text-decoration: none;
+            }
+
+            section.TextDecoration p.Underline {
+                text-decoration: underline;
+            }
+
+            section.TextDecoration p.LineThrough {
+                text-decoration: line-through;
+            }
+
+            section.TextDecoration p.Overline {
+                text-decoration: overline;
+            }
+
+            section.TextTransform p.None {
+                text-transform: none;
+            }
+
+            section.TextTransform p.Uppercase {
+                text-transform: uppercase;
+            }
+
+            section.TextTransform p.Lowercase {
+                text-transform: lowercase;
+            }
+
+            section.TextTransform p.Capitalize {
+                text-transform: capitalize;
+            }
