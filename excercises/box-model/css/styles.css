@@ -1,0 +1,51 @@
+.box-layers {
+    background-color: #eeeeee;
+    padding: 2rem;
+    border: 10px solid #dddddd;
+     margin: 4rem;
+}
+
+.two {
+    margin: 4rem 0;
+}
+
+.three {
+    padding: 2rem 1rem 4rem 1rem;
+}
+
+.four {
+border: none;
+    border-top: 10px solid #dddddd;
+}
+
+.h2-wrapper{
+    border: 1px solid black;
+}
+
+.box-sizing-example {
+  background-color: #eeeeee;
+  padding: 2rem;
+  border: 10px solid #dddddd;
+   width: 100%;
+}
+
+.bsetwo {
+    box-sizing: border-box;
+}
+
+.overflow-example {
+    width: 50%;
+}
+
+.oetwo {
+     height: 300px;
+     margin-bottom:75px
+}
+
+.oethree {
+    overflow: hidden;
+}
+
+.oefour {
+    overflow: auto;
+}
