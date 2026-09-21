@@ -36,7 +36,7 @@ img {
      border-top: 1px solid black;
 }
 
-.selected, .selected a:visited {
+.selected a:link, .selected a:visited {
     color: black; 
     font-weight: bold;
 }
