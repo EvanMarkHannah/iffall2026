@@ -1,0 +1,64 @@
+
+body {
+
+    padding: 10%;
+}
+
+.pic {
+
+width: 50rem;
+height: 30rem;
+object-fit: cover;
+object-position: center;
+}
+
+h1 {
+    text-decoration: underline;
+    font-size: 3rem;
+}
+
+h3 {
+    text-decoration: underline;
+
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+i {
+    color: gray;
+}
+
+.indent {
+    margin-left: 35px;
+}
+
+.grid img {
+ width:auto;
+ height: 250px;
+   
+}
+
+.grid li {
+   
+  
+  font-size: 0; 
+      display: flex; 
+   flex-wrap: wrap;
+   
+
+   
+  
+  
+}
+
+.grid {
+    font-size: 0; 
+      display: flex; 
+      flex-direction: row;
+   flex-wrap: wrap;
+ gap: 1rem;
+
+ 
+}
